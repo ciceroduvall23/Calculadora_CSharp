@@ -18,6 +18,9 @@ namespace Calculadora
 
        
 
+
+
+
         public Form1()
         {
             InitializeComponent();
